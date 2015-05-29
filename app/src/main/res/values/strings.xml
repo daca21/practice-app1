@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAppToast</string>
+
+    <string name="hello_world">The Cat in the Apps</string>
+    <string name="action_settings">Settings</string>
+    <string name="thecat">The Cat</string>
+    <string name="thing1">Thing 1</string>
+    <string name="thing2">Thing 2</string>
+    <string name="thingama">Thingamajigger</string>
+    <string name="sally">Sally</string>
+    <string name="nick">Nick</string>
+    <string name="dr">Dr. Seuss</string>
+
+</resources>
